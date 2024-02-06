@@ -13,3 +13,5 @@
 | --- | :------: | --------------: | ---------------------: |
 | 1   | 21522203 |  Đào Nhật Khánh | 21522203@gm.uit.edu.vn |
 | 2   | 21522700 | Cáp Hữu Anh Trí | 21522700@gm.uit.edu.vn |
+
+## FINAL PROJECT: Convert video to Anime Style using Real-time BigData Processing and Distributed Deep Learning
